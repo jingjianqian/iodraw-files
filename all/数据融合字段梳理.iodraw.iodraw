@@ -100,7 +100,7 @@
         <mxCell id="tf81GzjAJ6lbpjYDTbK9-38" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="tf81GzjAJ6lbpjYDTbK9-1">
           <mxGeometry y="150" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tf81GzjAJ6lbpjYDTbK9-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="tf81GzjAJ6lbpjYDTbK9-38">
+        <mxCell id="tf81GzjAJ6lbpjYDTbK9-39" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="tf81GzjAJ6lbpjYDTbK9-38">
           <mxGeometry width="67" height="30" as="geometry">
             <mxRectangle width="67" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -118,7 +118,7 @@
         <mxCell id="tf81GzjAJ6lbpjYDTbK9-42" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="tf81GzjAJ6lbpjYDTbK9-1">
           <mxGeometry y="180" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tf81GzjAJ6lbpjYDTbK9-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="tf81GzjAJ6lbpjYDTbK9-42">
+        <mxCell id="tf81GzjAJ6lbpjYDTbK9-43" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="tf81GzjAJ6lbpjYDTbK9-42">
           <mxGeometry width="67" height="40" as="geometry">
             <mxRectangle width="67" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -128,7 +128,7 @@
             <mxRectangle width="93" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tf81GzjAJ6lbpjYDTbK9-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="tf81GzjAJ6lbpjYDTbK9-42">
+        <mxCell id="tf81GzjAJ6lbpjYDTbK9-45" value="省（市、区）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="tf81GzjAJ6lbpjYDTbK9-42">
           <mxGeometry x="160" width="190" height="40" as="geometry">
             <mxRectangle width="190" height="40" as="alternateBounds" />
           </mxGeometry>
