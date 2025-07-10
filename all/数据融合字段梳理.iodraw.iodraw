@@ -8,7 +8,7 @@
           <mxGeometry x="-1050" y="-40" width="1490" height="2320" as="geometry" />
         </mxCell>
         <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1234" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-30" width="2450" height="2320" as="geometry" />
+          <mxGeometry x="510" y="-40" width="2450" height="2320" as="geometry" />
         </mxCell>
         <mxCell id="tf81GzjAJ6lbpjYDTbK9-1" value="城镇非住宅建筑表" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="540" y="30" width="350" height="2080.000000000001" as="geometry" />
