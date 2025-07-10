@@ -6098,7 +6098,7 @@
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1814" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1811">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1814" value="鉴定报告文件组id，作废" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1811">
           <mxGeometry x="170" width="180" height="40" as="geometry">
             <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -6116,7 +6116,7 @@
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1810" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1807">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1810" value="不需要排查原因" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1807">
           <mxGeometry x="170" width="180" height="40" as="geometry">
             <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
