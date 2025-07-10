@@ -7610,7 +7610,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2062" value="结构安全排查人姓名" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2059">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2062" value="结构安全排查人id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2059">
           <mxGeometry x="240" width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -7628,7 +7628,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2058" value="结构安全排查人id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2055">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2058" value="结构安全排查人电话" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2055">
           <mxGeometry x="240" width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -7646,7 +7646,7 @@
             <mxRectangle width="170" height="45" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2054" value="结构安全排查人电话" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2051">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2054" value="结构安全排查人机构" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2051">
           <mxGeometry x="240" width="240" height="45" as="geometry">
             <mxRectangle width="240" height="45" as="alternateBounds" />
           </mxGeometry>
