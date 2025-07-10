@@ -5998,6 +5998,9 @@
         <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1458" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2570" y="-40" width="1490" height="2320" as="geometry" />
         </mxCell>
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1459" value="自建房系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-90" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
