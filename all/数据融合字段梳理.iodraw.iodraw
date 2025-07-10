@@ -7412,7 +7412,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1978" value="结构安全排查-统一社会信用代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1975">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1978" value="结构安全排查-鉴定结论" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1975">
           <mxGeometry x="240" width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -7430,7 +7430,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2022" value="结构安全排查-鉴定结论" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2019">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2022" value="结构安全排查-管理措施" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2019">
           <mxGeometry x="240" width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -7448,7 +7448,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2018" value="结构安全排查-管理措施" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2015">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2018" value="结构安全排查-其他管理措施" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2015">
           <mxGeometry x="240" width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -7466,7 +7466,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2014" value="结构安全排查-其他管理措施" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2011">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2014" value="结构安全排查-工程措施" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2011">
           <mxGeometry x="240" width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -7484,7 +7484,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2010" value="结构安全排查-工程措施" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2007">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-2010" value="结构安全排查-其他工程措施" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-2007">
           <mxGeometry x="240" width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
