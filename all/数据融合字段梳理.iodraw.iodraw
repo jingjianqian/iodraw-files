@@ -998,7 +998,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8xdnS7wgGyqgBxY5A0Ne-5" value="城镇住宅建筑表" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="70" width="350" height="1960.000000000001" as="geometry" />
+          <mxGeometry x="540" y="2150" width="350" height="1960.000000000001" as="geometry" />
         </mxCell>
         <mxCell id="8xdnS7wgGyqgBxY5A0Ne-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-5">
           <mxGeometry y="30" width="350" height="20" as="geometry" />
