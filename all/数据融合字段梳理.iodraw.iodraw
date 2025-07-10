@@ -6422,7 +6422,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1742" value="鉴定结论-鉴定是否安全1是0否，作废" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1739">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1742" value="结构状况（1有变形损伤0无变形损伤）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1739">
           <mxGeometry x="240" width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -6440,7 +6440,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1738" value="结构状况（1有变形损伤0无变形损伤）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1735">
+        <mxCell id="8xdnS7wgGyqgBxY5A0Ne-1738" value="结构形状-具体部位" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8xdnS7wgGyqgBxY5A0Ne-1735">
           <mxGeometry x="240" width="240" height="40" as="geometry">
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
