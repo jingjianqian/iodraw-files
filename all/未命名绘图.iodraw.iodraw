@@ -161,7 +161,7 @@
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-117" value="1、目前行业库的表只有基本数据&lt;div&gt;2、融合进来的鉴定数据、隐患数据登是否涉及多个房屋类型&lt;br&gt;3、如果&lt;span style=&quot;background-color: initial;&quot;&gt;鉴定数据、隐患数据涉及多个房屋类型，是否需要每个房屋类型新增一个子表（如城镇住宅表新增鉴定业务数据表）&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;align=left;verticalAlign=top;spacingTop=9;spacing=6;spacingBottom=6;spacingRight=4;spacingLeft=3;" vertex="1" parent="1">
           <mxGeometry x="2190" y="470" width="290" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-124" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-124" value="图斑融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
