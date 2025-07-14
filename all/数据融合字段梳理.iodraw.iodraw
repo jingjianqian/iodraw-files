@@ -9497,7 +9497,7 @@
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2xZF6pIspF1EOphRHhC-146" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="a2xZF6pIspF1EOphRHhC-143" vertex="1">
+        <mxCell id="a2xZF6pIspF1EOphRHhC-146" value="省行政区划代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="a2xZF6pIspF1EOphRHhC-143" vertex="1">
           <mxGeometry x="160" width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -9515,7 +9515,7 @@
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2xZF6pIspF1EOphRHhC-150" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="a2xZF6pIspF1EOphRHhC-147" vertex="1">
+        <mxCell id="a2xZF6pIspF1EOphRHhC-150" value="市行政区划代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="a2xZF6pIspF1EOphRHhC-147" vertex="1">
           <mxGeometry x="160" width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -9533,7 +9533,7 @@
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2xZF6pIspF1EOphRHhC-154" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="a2xZF6pIspF1EOphRHhC-151" vertex="1">
+        <mxCell id="a2xZF6pIspF1EOphRHhC-154" value="区行政区划代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="a2xZF6pIspF1EOphRHhC-151" vertex="1">
           <mxGeometry x="160" width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
