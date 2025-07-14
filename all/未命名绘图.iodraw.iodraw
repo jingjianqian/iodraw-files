@@ -16,6 +16,9 @@
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-58" value="危旧房库" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="720" y="110" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-59" value="房普库" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
