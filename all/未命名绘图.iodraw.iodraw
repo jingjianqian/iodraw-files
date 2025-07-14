@@ -115,8 +115,11 @@
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-110" value="危旧房数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1960" y="810" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4HDw6GT4HMv3-T_w0Mm-111" target="i4HDw6GT4HMv3-T_w0Mm-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-111" value="关联" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="560" width="80" height="80" as="geometry" />
+          <mxGeometry x="1850" y="690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4HDw6GT4HMv3-T_w0Mm-117" target="i4HDw6GT4HMv3-T_w0Mm-108">
           <mxGeometry relative="1" as="geometry" />
