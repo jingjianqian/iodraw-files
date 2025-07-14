@@ -176,7 +176,7 @@
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-129" value="带有普查编号，&lt;br&gt;房屋建筑码，&lt;br&gt;坐标的shp文件" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="920" y="1000" width="166.67" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-131" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-131" value="数据融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
