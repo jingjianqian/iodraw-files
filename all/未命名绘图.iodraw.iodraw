@@ -31,6 +31,9 @@
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-64" value="图斑" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="900" y="220" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-67" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="85" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
