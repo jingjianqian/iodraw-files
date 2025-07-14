@@ -173,11 +173,14 @@
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-127" value="融合规则" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="730" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-129" value="带有普查编号，&lt;br&gt;房屋建筑码，&lt;br&gt;坐标的shp文件" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4HDw6GT4HMv3-T_w0Mm-129" target="i4HDw6GT4HMv3-T_w0Mm-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-129" value="带有普查编号，&lt;br style=&quot;font-size: 14px;&quot;&gt;房屋建筑码，&lt;br style=&quot;font-size: 14px;&quot;&gt;坐标的shp文件" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="920" y="1000" width="166.67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-131" value="数据融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="1230" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
