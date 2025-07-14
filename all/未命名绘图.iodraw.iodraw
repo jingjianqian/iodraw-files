@@ -20,7 +20,7 @@
           <mxGeometry x="-15.74" y="1100" width="319.68" height="530" as="geometry" />
         </mxCell>
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-73" value="图斑" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1500" width="100" height="60" as="geometry" />
+          <mxGeometry x="94.1" y="1490" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-74" value="鉴定数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="10" y="1310" width="100" height="60" as="geometry" />
