@@ -71,7 +71,7 @@
           <mxGeometry x="40" y="160" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-93" value="城镇非住宅" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="50" y="260" width="100" height="60" as="geometry" />
+          <mxGeometry x="40" y="260" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-94" value="农村独立住宅" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="40" y="350" width="100" height="60" as="geometry" />
