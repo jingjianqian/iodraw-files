@@ -112,7 +112,7 @@
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-110" value="危旧房数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="1960" y="790" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-111" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-111" value="关联" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1870" y="690" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
