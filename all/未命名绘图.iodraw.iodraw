@@ -167,7 +167,7 @@
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-124" value="图斑融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-127" value="融合规则" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="i4HDw6GT4HMv3-T_w0Mm-127" value="融合规则" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="730" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
