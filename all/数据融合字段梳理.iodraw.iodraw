@@ -9646,13 +9646,13 @@
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rQZ6e8Moct8ujwz3pN-v-106" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="50" width="180" height="830" as="geometry" />
+        <mxCell id="rQZ6e8Moct8ujwz3pN-v-106" value="房屋隐患排查信息表" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="40" width="180" height="830" as="geometry" />
         </mxCell>
         <mxCell id="rQZ6e8Moct8ujwz3pN-v-107" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rQZ6e8Moct8ujwz3pN-v-106">
           <mxGeometry y="30" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rQZ6e8Moct8ujwz3pN-v-108" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="rQZ6e8Moct8ujwz3pN-v-107">
+        <mxCell id="rQZ6e8Moct8ujwz3pN-v-108" value="序号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="rQZ6e8Moct8ujwz3pN-v-107">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
