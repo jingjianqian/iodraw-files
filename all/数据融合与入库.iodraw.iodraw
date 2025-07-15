@@ -326,9 +326,9 @@
           <mxGeometry x="330.35" y="-480" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-42" value="需要调查跟不需要调查的图斑不在一个范围内，互不影响" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="45" y="-650" width="80" height="100" as="geometry" />
+          <mxGeometry x="-15" y="-690" width="145" height="181.25" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=80;entryDy=65;entryPerimeter=0;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-27" target="VN8soXOiCoZgReFq4Dcc-42">
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=145;entryDy=105.625;entryPerimeter=0;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-27" target="VN8soXOiCoZgReFq4Dcc-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
