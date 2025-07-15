@@ -281,19 +281,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-770" width="220" height="400" as="geometry" />
+          <mxGeometry x="280" y="-780" width="220" height="400" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-28" value="回流库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-800" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="-810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-30" target="VN8soXOiCoZgReFq4Dcc-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-30" value="上次导出的&lt;br&gt;不含不需要调查的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-720" width="110" height="290" as="geometry" />
+          <mxGeometry x="330" y="-730" width="110" height="290" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-33" value="自建房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="-790" width="60" height="30" as="geometry" />
