@@ -286,6 +286,9 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-47" value="需要调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-48" value="不需要调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
