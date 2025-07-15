@@ -248,6 +248,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-14" target="VN8soXOiCoZgReFq4Dcc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-14" value="是否共性字段" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2460" y="991" width="140" height="140" as="geometry" />
         </mxCell>
@@ -256,6 +259,9 @@
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-16" target="i4HDw6GT4HMv3-T_w0Mm-80">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-21" value="" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="1251" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
