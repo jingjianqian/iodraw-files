@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-780" width="220" height="430" as="geometry" />
+        </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="-770" width="245" height="430" as="geometry" />
         </mxCell>
@@ -292,14 +295,11 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-48" value="不需要调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-780" width="220" height="430" as="geometry" />
-        </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-50" value="需要调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="584" y="-700" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-53" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-620" width="80" height="80" as="geometry" />
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-53" value="是否自建房" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
