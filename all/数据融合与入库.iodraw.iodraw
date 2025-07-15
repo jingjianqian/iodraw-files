@@ -290,7 +290,10 @@
           <mxGeometry x="228" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-770" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="-780" width="220" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-50" value="需要调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
