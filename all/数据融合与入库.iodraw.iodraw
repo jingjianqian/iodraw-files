@@ -240,8 +240,14 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-5" value="通过普查编号获取&lt;br style=&quot;font-size: 16px;&quot;&gt;业务字段数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2130" y="1010" width="200" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-14" target="VN8soXOiCoZgReFq4Dcc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-14" value="是否共性字段" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2460" y="991" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
