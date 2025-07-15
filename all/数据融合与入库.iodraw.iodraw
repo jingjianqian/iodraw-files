@@ -234,6 +234,9 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-5" value="通过普查编号获取&lt;br style=&quot;font-size: 16px;&quot;&gt;业务字段数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2130" y="1010" width="200" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
