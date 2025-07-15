@@ -293,10 +293,10 @@
           <mxGeometry x="420" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-760" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="-760" width="290" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-33" value="回流库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-790" width="60" height="30" as="geometry" />
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-33" value="自建房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-790" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
