@@ -251,7 +251,7 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-14" value="是否共性字段" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2460" y="991" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-16" value="对应存入房屋类型表与关联表" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2690" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
