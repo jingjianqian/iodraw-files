@@ -21,6 +21,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4HDw6GT4HMv3-T_w0Mm-68" target="VN8soXOiCoZgReFq4Dcc-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2230" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-68" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="-3.6799999999999997" y="490" width="334.03" height="550" as="geometry" />
         </mxCell>
@@ -209,6 +216,9 @@
         <mxCell id="i4HDw6GT4HMv3-T_w0Mm-139" value="融合&lt;br&gt;危旧房图斑" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1700" y="1011" width="166.67" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-1" target="VN8soXOiCoZgReFq4Dcc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-1" value="数据关联" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1920" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
@@ -218,8 +228,8 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i4HDw6GT4HMv3-T_w0Mm-129" target="VN8soXOiCoZgReFq4Dcc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-5" value="通过普查编号获取&lt;br style=&quot;font-size: 16px;&quot;&gt;业务字段数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="1010" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
