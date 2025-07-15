@@ -243,7 +243,7 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-14" target="VN8soXOiCoZgReFq4Dcc-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VN8soXOiCoZgReFq4Dcc-17">
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="VN8soXOiCoZgReFq4Dcc-17">
           <mxGeometry x="-0.5439" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -251,7 +251,7 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-14" target="VN8soXOiCoZgReFq4Dcc-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-23" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="VN8soXOiCoZgReFq4Dcc-22">
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-23" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="VN8soXOiCoZgReFq4Dcc-22">
           <mxGeometry x="-0.1933" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -259,7 +259,7 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-14" value="是否共性字段" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2460" y="991" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-16" value="对应存入房屋类型表与关联表" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-16" value="保留两份存储" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2670" y="790" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-16" target="i4HDw6GT4HMv3-T_w0Mm-80">
