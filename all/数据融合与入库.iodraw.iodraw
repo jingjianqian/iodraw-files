@@ -307,8 +307,8 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-53" value="是否自建房" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="-610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-56" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-440" width="120" height="60" as="geometry" />
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-56" value="需要排查" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
