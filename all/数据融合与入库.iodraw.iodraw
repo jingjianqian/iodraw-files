@@ -268,7 +268,7 @@
         <mxCell id="VN8soXOiCoZgReFq4Dcc-21" value="存入基本表与关联表" style="whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2470" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VN8soXOiCoZgReFq4Dcc-24" value="如自建房与普查存在某个共性字段，关联表中保留自建房字段并存储，基本房屋类型字段存储普查数据" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="VN8soXOiCoZgReFq4Dcc-24" value="如自建房与普查存在某个共性字段，关联表中保留自建房字段并存储，基本房屋类型字段存储普查数据，危旧房同理" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="2290" y="540" width="260" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VN8soXOiCoZgReFq4Dcc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VN8soXOiCoZgReFq4Dcc-16" target="VN8soXOiCoZgReFq4Dcc-24">
